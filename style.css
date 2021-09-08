@@ -1,0 +1,44 @@
+
+
+
+
+* {
+    margin: 0 auto;   
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header,
+.parallax-image {
+    background-image: url("./images/brasil-1280px.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+header {
+    background-image: url("./images/travel-1280px.jpg");
+}
+
+.greece {
+    background-image: url("./images/grecia-1280px.jpg");
+}
+
+.india {
+    background-image: url("./images/india-1280px.jpg");
+}
+
+.brasil {
+    background-image: url("./images/brasil-1280px.jpg");
+}
+
+article {
+    padding: 10px;
+}
+
+footer {
+    padding: 10px;
+}
